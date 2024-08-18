@@ -1,5 +1,7 @@
 # go-saga
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/tiagomelo/go-saga.svg)](https://pkg.go.dev/github.com/tiagomelo/go-saga)
+
 ![logo](logo.png)
 
 A tiny Go package that provides an implementation of the [Saga pattern](https://microservices.io/patterns/data/saga.html) for managing distributed transactions. 
